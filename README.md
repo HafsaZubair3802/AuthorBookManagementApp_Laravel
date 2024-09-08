@@ -35,7 +35,7 @@ On the Books Index Page, you can see a list of all books. Each entry displays th
 
 ### Screenshots
 
-![Home Page](screenshots/Home page.png)
+![Home Page](screenshots/Home_page.png)
 *Home Page: The central hub of the application.*
 
 ![Authors Details Page](screenshots/Author Details.png)
