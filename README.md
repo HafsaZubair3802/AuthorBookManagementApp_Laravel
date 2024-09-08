@@ -36,10 +36,22 @@ On the Books Index Page, you can see a list of all books. Each entry displays th
 ### Screenshots
 
 ![Home Page](screenshots/Home_page.png)
-*Home Page: The central hub of the application.*
+*The central hub of the application.*
 
-![Authors Details Page](screenshots/Author Details.png)
-*Authors Management: View, add, edit, or delete authors.*
+![Authors Details Page](screenshots/Author_Details.png)
+*View, add, edit, or delete authors.*
 
-![Books Management](screenshots/books_management.png)
-*Books Management: View, add, edit, or delete books.*
+![Add New Author Page](screenshots/Add_new_author.png)
+*Add new author*
+
+![Edit Author Page](screenshots/Edit_Author.png)
+*edit any author details*
+
+![Books Details Page](screenshots/Books_Details.png)
+*View, add, edit, or delete books.*
+
+![Add New Book Page](screenshots/Add_new_book.png)
+*Add new book*
+
+![Edit Book Page](screenshots/Edit_Book.png)
+*edit any book details*
