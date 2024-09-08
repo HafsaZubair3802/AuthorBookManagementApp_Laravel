@@ -1,36 +1,13 @@
-# Laravel-specific ignores
-
 /vendor
 /node_modules
 /.env
 /.phpunit.result.cache
 /storage/*.key
-/storage/app/public
-/storage/debugbar
+/public/hot
 /public/storage
-/storage/logs
-/bootstrap/cache
-.env.testing
-
-# IDE and editor files
+/storage/*.php
 /.idea
 /.vscode
-*.sublime-workspace
-*.sublime-project
-
-# Operating System files
 .DS_Store
-Thumbs.db
-
-# Log files
 *.log
-
-# Composer and NPM lock files
-composer.lock
-package-lock.json
-yarn.lock
-
-# Miscellaneous
-*.sql
 *.sqlite
-
