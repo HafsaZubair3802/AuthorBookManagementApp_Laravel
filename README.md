@@ -34,3 +34,12 @@ On the Books Index Page, you can see a list of all books. Each entry displays th
 - **Delete a Book**: Click the "Delete" button next to the book title and confirm the deletion.
 
 ### Screenshots
+
+![Home Page](screenshots/Home page.png)
+*Home Page: The central hub of the application.*
+
+![Authors Details Page](screenshots/Author Details.png)
+*Authors Management: View, add, edit, or delete authors.*
+
+![Books Management](screenshots/books_management.png)
+*Books Management: View, add, edit, or delete books.*
